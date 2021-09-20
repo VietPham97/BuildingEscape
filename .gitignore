@@ -3,6 +3,7 @@
 
 # Starter Content
 Content/StarterContent/*
+Content/MobileStarterContent/*
 
 # Compiled Object files
 *.slo
