@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
+
 # Starter Content
 Content/StarterContent/*
 Content/MobileStarterContent/*
