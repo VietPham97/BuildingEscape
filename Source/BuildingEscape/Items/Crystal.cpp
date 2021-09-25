@@ -1,0 +1,27 @@
+// Created by Pham Hoang Viet in 2021.
+
+
+#include "Crystal.h"
+
+// Sets default values
+ACrystal::ACrystal()
+{
+ 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	PrimaryActorTick.bCanEverTick = true;
+
+}
+
+// Called when the game starts or when spawned
+void ACrystal::BeginPlay()
+{
+	Super::BeginPlay();
+	
+}
+
+// Called every frame
+void ACrystal::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+
+}
+
